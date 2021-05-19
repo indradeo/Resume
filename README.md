@@ -20,7 +20,7 @@
             <h4>CAREER OBJECTIVE </h4>
             <hr>
             <p>To secure a position with a stable and profitable organization,
-                 where I can be a member of a team and utilize my knowledge</p></br>
+                 where I can be a member of a team and utilize my knowledge</p>
         </div>
         <div>
             <table border="2">
