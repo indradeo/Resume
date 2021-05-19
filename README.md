@@ -9,14 +9,15 @@
                 <hr>
                 <p>Contact :- 9523134353</p>
                 <p>Email :- indradeokumar1234@gmail.com</p>
-                <p>Address : - 7th mile more ,Ramua ,Bishnugarh </br>  Hazaribag ,Jharkhand, 825312</p>
+                <p>Address : - 7th mile more ,Ramua ,Bishnugarh
+                Hazaribag ,Jharkhand, 825312</p>
             </div>
             <div>
                 
             </div>
         </div>
         <div>
-            <h4>CAREER OBJECTIVE </h2>
+            <h4>CAREER OBJECTIVE </h4>
             <hr>
             <p>To secure a position with a stable and profitable organization,
                  where I can be a member of a team and utilize my knowledge</p></br>
@@ -100,7 +101,7 @@
             </tr>
         </table>
         <div>
-            <h5>Declaration</h6>
+            <h6>Declaration</h6>
             <hr>
             <p>I hereby declare that the above information 
                 is true and correct to the best of my knowledge</p>
