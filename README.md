@@ -112,5 +112,6 @@
             <a href="https://github.com/indradeo/Resume" target="_blank">https://github.com/indradeo/Resume</a>
          
         </div>
+        <button style="background-color:blue" onclick="window.print()">Print</button>
     </body>
 </html>
