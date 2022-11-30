@@ -16,12 +16,20 @@
                 
             </div>
         </div>
+        <hr>
         <div>
             <h4>CAREER OBJECTIVE </h4>
             <hr>
             <p>To secure a position with a stable and profitable organization,
                  where I can be a member of a team and utilize my knowledge</p>
         </div>
+        <hr>
+        <div>
+            <h4>WORK EXPERIENCE</h4>
+            <p>Work as Intern in USOM IT Solutions pvt ltd using ASP.NET MVC5 
+                technology With Entity Framework on Library Management System.</p>
+        </div>
+        <hr>
         <div>
             <table border="2">
                 <th>EDUCATIONAL QUALIFICATION</th>
@@ -55,6 +63,7 @@
                     </tr>               
             </table>
         </div>
+        <hr>
         <div>
             <h4>TECHNICAL SKILLS:</h4>
             <hr>
@@ -92,7 +101,7 @@
                 <td>05/11/1999</td>
             </tr>
             <tr>
-                <td>Sex</td>
+                <td>Gender</td>
                 <td>Male</td>
             </tr>
             <tr>
@@ -100,12 +109,14 @@
                 <td>Hindi, English</td>
             </tr>
         </table>
+        <hr>
         <div>
             <h6>Declaration</h6>
             <hr>
             <p>I hereby declare that the above information 
                 is true and correct to the best of my knowledge</p>
         </div>
+        <hr>
         <div>
             <h4>Important Link</h4>
             <hr>
