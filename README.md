@@ -1,6 +1,5 @@
 <html>
     <head>
-        <tilte>My Resume</title>
     </head>
     <body>
         <div>
@@ -118,7 +117,6 @@
         <hr>
         <div>
             <h4>Important Link</h4>
-            <hr>
             <a href="https://github.com/indradeo/Resume" target="_blank">https://github.com/indradeo/Resume</a>
          
         </div>
