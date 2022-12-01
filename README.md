@@ -1,12 +1,11 @@
 <html>
     <head>
-
+        <tilte>My Resume</title>
     </head>
     <body>
         <div>
             <div>
                 <h1>INDRADEO KUMAR</h1>
-                <hr>
                 <p>Contact :- 9523134353</p>
                 <p>Email :- indradeokumar1234@gmail.com</p>
                 <p>Address : - 7th mile more ,Ramua ,Bishnugarh
@@ -111,9 +110,9 @@
         </table>
         <hr>
         <div>
-            <h6>Declaration</h6>
+            <h4>Declaration</h4>
             <hr>
-            <p>I hereby declare that the above information 
+            <p><input type="checkbox" checked/>I hereby declare that the above information 
                 is true and correct to the best of my knowledge</p>
         </div>
         <hr>
@@ -123,6 +122,7 @@
             <a href="https://github.com/indradeo/Resume" target="_blank">https://github.com/indradeo/Resume</a>
          
         </div>
-        <button style="background-color:blue" onclick="window.print()">Print</button>
+        <button style="border-top-width: 0px; border-left-width: 0px;border-right-width: 0px;margin-top: 20px;padding-left: 8px;background-color: cadetblue;
+            padding-right: 8px;" onclick="window.print()">Print</button>
     </body>
 </html>
