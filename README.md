@@ -66,9 +66,9 @@
             <h4>TECHNICAL SKILLS:</h4>
             <hr>
             <ul>
-                <li>Proficient in using Adobe photoshop, Ms-Office , MS-PowerPoint</li>
+                <li>HTML, CSS, Data Structures</li>
                 <li>Basic knowledge of core JAVA language</li>
-                <li>Training in web Application ASP.Net MVC 5 with Entity Framework 6</li>
+                <li>Basic Knowledge of Spring Boot Framework</li>
             </ul>          
         </div>
         <div>
